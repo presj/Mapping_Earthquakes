@@ -1,3 +1,5 @@
+file:///C:/Users/presj/Module_13/Mapping_Earthquakes/Earthquake_Challenge/index.html
+
 Mapping_Earthquakes Overview
 
 This challenged used data visualization to show the differences between the magnitudes of earthquakes around the world over the last seven days.  With the use of D3 and Leaflet libraries, and GeoJSON, an interactive earthquake map was created using three overlay maps.
